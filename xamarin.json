@@ -4,15 +4,10 @@
     "description": "Xamarin Studio Hotkeys",
 
     "metadata": {
-        "sourceName": "xamarin",
+        "sourceName": "Xamarin",
         "sourceUrl" : "https://developer.xamarin.com/"
     },
-
-    "aliases": [
-        
-    ],
-
-    "template_type": "keyboard",
+   "template_type": "keyboard",
 
     "section_order": [
         "Navigation",
@@ -66,7 +61,7 @@
             },
             {
                 "key": "[Ctrl][F10]",
-                "val": "Run to cursor"
+                "val": "Run to Cursor"
             },
             {
                 "key": "[Ctrl][Shift][F10]",
@@ -156,7 +151,7 @@
          "Project": [
             {
                 "key": "F7",
-                "val": "Buid"
+                "val": "Build"
             },
             {
                 "key": "F8",
@@ -164,11 +159,11 @@
             },
               {
                 "key": "[Ctrl][F7]",
-                "val": "Rebuid"
+                "val": "Rebuild"
             },
               {
                 "key": "[Ctrl][F8]",
-                "val": "Rebuid All"
+                "val": "Rebuild All"
             },
               {
                 "key": "F5",
@@ -184,7 +179,7 @@
             },
               {
                 "key": "[Shift][F5]",
-                "val": "Stop Biuld execution"
+                "val": "Stop Build execution"
             }
         ],
          "Search": [
