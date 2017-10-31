@@ -1,2 +1,3 @@
 # duckduckgo-cheatsheets
-My Cheat Sheet contributions to DuckDuckGo
+My contributions to DuckDuckGo.
+
